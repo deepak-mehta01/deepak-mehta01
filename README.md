@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @deepak-mehta01
-- Learning Flutter with the hope to Develop & explore multi-OS platform Apps.
 Enthusiastic about Learning & acquiring new skills.
 Love Adventure.
 Love Yoga.
