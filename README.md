@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak-mehta01
-Enthusiastic about Learning & acquiring new skills.
-Love Adventure.
+- Enthusiastic about Learning & acquiring new skills.
+- Love Adventure.
 Love Yoga.
 
 <!---
